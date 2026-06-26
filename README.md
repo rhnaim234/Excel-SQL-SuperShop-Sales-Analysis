@@ -18,7 +18,7 @@ Interactive sales analytics dashboard built using SQL and Microsoft Excel to ana
 - Visualized category, regional, and monthly sales performance.
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashoboard.png)
 
 ## Dashboard Features
 - Sales & Profit Analysis
